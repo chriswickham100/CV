@@ -1,6 +1,4 @@
-# Data Scientist and Technical Program Manager CV and Reference Library
-
-Welcome! 
+# Welcom! 
 
 ![image](https://user-images.githubusercontent.com/28079568/174338359-b53eaf9e-9060-45f9-ac77-352da29c0cb5.png)
 
