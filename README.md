@@ -15,3 +15,9 @@ I use this repo to document technologies and frameworks that worked, so that I c
 #### Training and Exploration
 
 I also use this repo to build my own skills. Technology is changing constantly, and this is one of my ways of keeping up. 
+
+
+## Methodologies, Frameworks, and Management Tools
+| Name        | Directory   
+| ------------- |:-------------:| 
+| Microsoft 365| [link](Methodologies, Frameworks, and Management Tools/Microsoft 365.md)  |
