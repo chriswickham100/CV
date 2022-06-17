@@ -1,4 +1,4 @@
-# Welcom! 
+# Welcome! 
 
 ![image](https://user-images.githubusercontent.com/28079568/174338359-b53eaf9e-9060-45f9-ac77-352da29c0cb5.png)
 
@@ -20,4 +20,4 @@ I also use this repo to build my own skills. Technology is changing constantly, 
 ## Methodologies, Frameworks, and Management Tools
 | Name        | Directory   
 | ------------- |:-------------:| 
-| Microsoft 365| [link](Methodologies, Frameworks, and Management Tools/Microsoft 365.md)  |
+| Microsoft 365| [link]("Methodologies, Frameworks, and Management Tools"/"Microsoft 365.md")  |
