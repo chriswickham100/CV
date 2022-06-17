@@ -1,3 +1,3 @@
 # Methodologies, Frameworks, and Management Tools
 
-This repo captures methdologies and frameworks for managing technical projects. 
+This repo captures methodologies and frameworks for planning and executing technical projects. 
