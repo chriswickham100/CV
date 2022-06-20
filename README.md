@@ -14,7 +14,7 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | Name        | Directory   
 | ------------- |:-------------:| 
 | **Coding Languages**|
-| Python (Pandas, Numpy, etc.)| [link](Technologies/Pandas and Numpy/Pandas and Numpy Notebook.ipynb)  |
+| Python (Pandas, Numpy, etc.)| [link](Technologies/Pandas_Numpy/Pandas_Numpy.ipynb)  |
 | R | [WIP](Technologies/Python.md)  |
 | SAS | [WIP](Technologies/Python.md)  |
 | **DevOps**||
