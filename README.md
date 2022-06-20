@@ -14,25 +14,25 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | Name        | Directory   
 | ------------- |:-------------:| 
 | **Coding Languages**|
-| Python (Pandas, Numpy, etc.)| [link](Technologies/Python.md)  |
-| R | [link](Technologies/Python.md)  |
-| SAS | [link](Technologies/Python.md)  |
+| Python (Pandas, Numpy, etc.)| [link](Technologies/Pandas and Numpy/Pandas and Numpy Notebook.ipynb)  |
+| R | [WIP](Technologies/Python.md)  |
+| SAS | [WIP](Technologies/Python.md)  |
 | **DevOps**||
-| Jenkins| [link](Technologies/Python.md)  |
-| GitLab CI | [link](Technologies/Python.md)  |
-| Docker | [link](Technologies/Python.md)  |
-| Kubernetes| [link](Technologies/Python.md)  |
+| Jenkins| [WIP](Technologies/Python.md)  |
+| GitLab CI | [WIP](Technologies/Python.md)  |
+| Docker | [WIP](Technologies/Python.md)  |
+| Kubernetes| [WIP](Technologies/Python.md)  |
 | **Distributed Processing and Data Pipeplines** ||
-| Spark| [link](Technologies/Python.md)  |
-| Hadoop | [link](Technologies/Python.md)  |
-| Kafka | [link](Technologies/Python.md)  |
-| Apache Airflow| [link](Technologies/Python.md)  |
+| Spark| [WIP](Technologies/Python.md)  |
+| Hadoop | [WIP](Technologies/Python.md)  |
+| Kafka | [WIP](Technologies/Python.md)  |
+| Apache Airflow| [WIP](Technologies/Python.md)  |
 | **Databases** ||
-| MySQL| [link](Technologies/Python.md)  |
-| PostGreSQL | [link](Technologies/Python.md)  |
-| MongoDB | [link](Technologies/Python.md)  |
+| MySQL| [WIP](Technologies/Python.md)  |
+| PostGreSQL | [WIP](Technologies/Python.md)  |
+| MongoDB | [WIP](Technologies/Python.md)  |
 | **Cloud Comparison**||
-| Azure vs Google vs AWS| [link](Technologies/Python.md)  |
+| Azure vs Google vs AWS| [WIP](Technologies/Python.md)  |
 
 
 
@@ -42,14 +42,14 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | Name        | Directory   
 | ------------- |:-------------:| 
 | **Methodologies** ||
-| Machine Learning Ops: Planning, Development, Deployment & Governance|[link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)|
-| Enterprise Architecture Assessment and Enhancement|[link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)|
-| Establishing a Data Governance Framework|[link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)|
+| Machine Learning Ops: Planning, Development, Deployment & Governance|[WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)|
+| Enterprise Architecture Assessment and Enhancement|[WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)|
+| Establishing a Data Governance Framework|[WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)|
 | **Technical Team Management Frameworks**||
-| Agile Scrum vs. SAFAgile vs. Waterfall | [TBD](Methodologies_Frameworks_MgmtTools/Microsoft_365.md) |
+| Agile Scrum vs. SAFAgile vs. Waterfall | [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md) |
 | **Project Management and Design Thinking Tools**||
-| Mural | [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
-| Trello | [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
-| Jira | [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
-| ClickUp| [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
-| Microsoft 365| [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
+| Mural | [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
+| Trello | [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
+| Jira | [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
+| ClickUp| [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
+| Microsoft 365| [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
