@@ -13,25 +13,25 @@ There are two main (sometimes overlapping) categories I've put here:
 ## Technologies
 | Name        | Directory   
 | ------------- |:-------------:| 
-| *Coding Languages*|
+| **Coding Languages**|
 | Python (Pandas, Numpy, etc.)| [link](Technologies/Python.md)  |
 | R | [link](Technologies/Python.md)  |
 | SAS | [link](Technologies/Python.md)  |
-| *DevOps*||
+| **DevOps**||
 | Jenkins| [link](Technologies/Python.md)  |
 | GitLab CI | [link](Technologies/Python.md)  |
 | Docker | [link](Technologies/Python.md)  |
 | Kubernetes| [link](Technologies/Python.md)  |
-| *Distributed Processing and Data Pipeplines* ||
+| **Distributed Processing and Data Pipeplines** ||
 | Spark| [link](Technologies/Python.md)  |
 | Hadoop | [link](Technologies/Python.md)  |
 | Kafka | [link](Technologies/Python.md)  |
 | Apache Airflow| [link](Technologies/Python.md)  |
-| *Databases* ||
+| **Databases** ||
 | MySQL| [link](Technologies/Python.md)  |
 | PostGreSQL | [link](Technologies/Python.md)  |
 | MongoDB | [link](Technologies/Python.md)  |
-| *Cloud Comparison* ||
+| **Cloud Comparison**||
 | Azure vs Google vs AWS| [link](Technologies/Python.md)  |
 
 
