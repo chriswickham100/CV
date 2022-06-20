@@ -13,7 +13,7 @@ There are two main (sometimes overlapping) categories I've put here:
 ## Technologies
 | Name        | Directory   
 | ------------- |:-------------:| 
-| *Coding Languages*| :--: |
+| *Coding Languages*|
 | Python (Pandas, Numpy, etc.)| [link](Technologies/Python.md)  |
 | R | [link](Technologies/Python.md)  |
 | SAS | [link](Technologies/Python.md)  |
