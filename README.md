@@ -8,7 +8,7 @@ That repository serves a few purposes for me. First of all, it's a reference lib
 
 In sum, this repository captures technologies, methodologies, and code excerpts that I've worked with and/or developed during my career. I hope you enjoy, and if you'd like to discuss, please reach out. 
 
-There are two main (sometimes overlapping) categories I've put here: 
+I just started this report in mid-June 2022, and it's still a work in progress. Ultimately, I want every entry in the technologies section to have code snippets for, at minimum, hello world, as well as a description of pros, cons, and use cases. 
 
 ## Technologies
 | Name        | Directory   
@@ -46,7 +46,7 @@ There are two main (sometimes overlapping) categories I've put here:
 | Enterprise Architecture Assessment and Enhancement|[link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)|
 | Establishing a Data Governance Framework|[link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)|
 | **Technical Team Management Frameworks**||
-| Agile Scrum vs. SAFAgile vs. Waterfall ||
+| Agile Scrum vs. SAFAgile vs. Waterfall | [TBD](Methodologies_Frameworks_MgmtTools/Microsoft_365.md) |
 | **Project Management and Design Thinking Tools**||
 | Mural | [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
 | Trello | [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
