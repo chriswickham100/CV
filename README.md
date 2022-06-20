@@ -13,7 +13,8 @@ There are two main (sometimes overlapping) categories I've put here:
 ## Technologies
 | Name        | Directory   
 | ------------- |:-------------:| 
-| Microsoft 365| [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
+| Coding Languages|:-------------:|
+| Python (Pandas, Numpy, etc.)| [link](Technologies/Python.md)  |
 
 
 ## Methodologies, Frameworks, and Management Tools
