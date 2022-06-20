@@ -2,19 +2,18 @@
 
 ![image](https://user-images.githubusercontent.com/28079568/174338359-b53eaf9e-9060-45f9-ac77-352da29c0cb5.png)
 
-My name is Chris Wickham and I'm an experienced data scientist and technical program manager at IBM. I created this repository for a few purposes: 
+My name is Chris Wickham. I'm an experienced data scientist and technical program manager at IBM, and, like any technologist, I often have to pick up new technologies quickly. For the past few years, my notes and code snippets from new technologies have sat around in various local directories, disorganized and, a few months later, hard to interpret, even for myself. After a recent interview client engagement where I was asked to revisit a technology I had used recently and found my old notes hard to use, I decided to change that. 
 
-#### Curriculum Vitae 
+That repository serves a few purposes for me. First of all, it's a reference library. I use this repo to document technologies and frameworks that worked, so that I can go back and use them again! It's also my Curriculum Vitae, which I'll send to prospective clients to show them what I'm capable. And finally, I use it for my own training and exploration. When a client asks me about a new technology (e.g., "Should we be using AWS, Azure, or Google Cloud? How would you plan an overhaul of our IT Architecture? Can you show me how Hadoop works?"), and I go out to conduct research and draw on past experiences, I document new things here as soon as I find them. 
 
-This repository captures technologies, methodologies, and code excerpts that I've worked with and/or developed during my career. If your interested in hiring me as a consultant, read through this repo to get a sense of my skills and communication style. 
+In sum, this repository captures technologies, methodologies, and code excerpts that I've worked with and/or developed during my career. I hope you enjoy, and if you'd like to discuss, please reach out. 
 
-#### Reference Library
+There are two main (sometimes overlapping) categories I've put here: 
 
-I use this repo to document technologies and frameworks that worked, so that I can go back and use them again! I regularly leverage code snippets and past experiences from past projects to make future projects go more quickly and more effectively, and I created this repo in part to collect them in the same place. 
-
-#### Training and Exploration
-
-I also use this repo to build my own skills. Technology is changing constantly, and this is one of my ways of keeping up. 
+## Technologies
+| Name        | Directory   
+| ------------- |:-------------:| 
+| Microsoft 365| [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
 
 
 ## Methodologies, Frameworks, and Management Tools
