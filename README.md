@@ -41,4 +41,9 @@ There are two main (sometimes overlapping) categories I've put here:
 ## Methodologies, Frameworks, and Management Tools
 | Name        | Directory   
 | ------------- |:-------------:| 
+| **Project Management and Design Thinking Tools**||
+| Mural | [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
+| Trello | [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
+| Jira | [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
+| ClickUp| [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
 | Microsoft 365| [link](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
