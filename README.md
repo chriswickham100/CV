@@ -15,24 +15,24 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | ------------- |:-------------:| 
 | **Coding Languages**|
 | Python (Pandas, Numpy, etc.)| [link](Technologies/Pandas_Numpy/Pandas_Numpy.ipynb)  |
-| R | [WIP](Technologies/Python.md)  |
-| SAS | [WIP](Technologies/Python.md)  |
+| R | WIP  |
+| SAS | WIP  |
 | **DevOps**||
-| Jenkins| [WIP](Technologies/Python.md)  |
-| GitLab CI | [WIP](Technologies/Python.md)  |
-| Docker | [WIP](Technologies/Python.md)  |
-| Kubernetes| [WIP](Technologies/Python.md)  |
+| Jenkins| WIP  |
+| GitLab CI | WIP |
+| Docker | WIP |
+| Kubernetes| WIP |
 | **Distributed Processing and Data Pipeplines** ||
-| Spark| [WIP](Technologies/Python.md)  |
-| Hadoop | [WIP](Technologies/Python.md)  |
-| Kafka | [WIP](Technologies/Python.md)  |
-| Apache Airflow| [WIP](Technologies/Python.md)  |
+| Spark| WIP |
+| Hadoop | WIP |
+| Kafka | WIP|
+| Apache Airflow| WIP  |
 | **Databases** ||
-| MySQL| [WIP](Technologies/Python.md)  |
-| PostGreSQL | [WIP](Technologies/Python.md)  |
-| MongoDB | [WIP](Technologies/Python.md)  |
+| MySQL| WIP |
+| PostGreSQL | WIP |
+| MongoDB | WIP |
 | **Cloud Comparison**||
-| Azure vs Google vs AWS| [WIP](Technologies/Python.md)  |
+| Azure vs Google vs AWS| WIP |
 
 
 
@@ -42,14 +42,14 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | Name        | Directory   
 | ------------- |:-------------:| 
 | **Methodologies** ||
-| Machine Learning Ops: Planning, Development, Deployment & Governance|[WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)|
-| Enterprise Architecture Assessment and Enhancement|[WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)|
-| Establishing a Data Governance Framework|[WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)|
+| Machine Learning Ops: Planning, Development, Deployment & Governance| WIP |
+| Enterprise Architecture Assessment and Enhancement| WIP |
+| Establishing a Data Governance Framework| WIP |
 | **Technical Team Management Frameworks**||
-| Agile Scrum vs. SAFAgile vs. Waterfall | [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md) |
+| Agile Scrum vs. SAFAgile vs. Waterfall | WIP |
 | **Project Management and Design Thinking Tools**||
-| Mural | [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
-| Trello | [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
-| Jira | [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
-| ClickUp| [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
-| Microsoft 365| [WIP](Methodologies_Frameworks_MgmtTools/Microsoft_365.md)  |
+| Mural | WIP  |
+| Trello | WIP |
+| Jira | WIP  |
+| ClickUp| WIP |
+| Microsoft 365| WIP  |
