@@ -1,4 +1,4 @@
-# Technologiess
+# Technologies
 
 This repo captures use cases and code snippets for critical technologies involved in data science, including: 
 
