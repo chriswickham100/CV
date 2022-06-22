@@ -14,9 +14,10 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | Name        | Directory   
 | ------------- |:-------------:| 
 | **Coding Languages**|
-| Python (Pandas, Numpy, etc.)| [link](Technologies/Pandas_Numpy/Pandas_Numpy.ipynb)  |
-| R | WIP  |
-| SAS | WIP  |
+| Python - Object-Oriented Programming | WIP |
+| Python - Data Exploration and Cleaning| [link](Technologies/Pandas_Numpy/Pandas_Numpy.ipynb)  |
+| Python - Regression | WIP  |
+| Python - Classification | WIP  |
 | **DevOps**||
 | Jenkins| WIP  |
 | GitLab CI | WIP |
@@ -25,7 +26,7 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | **Distributed Processing and Data Pipeplines** ||
 | Spark| WIP |
 | Hadoop | WIP |
-| Kafka | WIP|
+| Databricks | WIP|
 | Apache Airflow| WIP  |
 | **Databases** ||
 | MySQL| WIP |
@@ -51,5 +52,4 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | Mural | WIP  |
 | Trello | WIP |
 | Jira | WIP  |
-| ClickUp| WIP |
 | Microsoft 365| WIP  |
