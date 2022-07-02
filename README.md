@@ -14,7 +14,7 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | Name        | Directory   
 | ------------- |:-------------:| 
 | **Coding Languages**|
-| Python - Object-Oriented Programming | WIP |
+| Python - Object-Oriented Programming | [link](Technologies/Python_OOP.ipynb) |
 | Python - Data Exploration and Cleaning| [link](Technologies/Pandas_Numpy/Pandas_Numpy.ipynb)  |
 | Python - Regression | WIP  |
 | Python - Classification | WIP  |
