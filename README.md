@@ -21,6 +21,7 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | Classification Example | WIP  |
 | Clustering Example | WIP  |
 | Deep Learning Example | WIP  |
+| Testing | WIP |
 | **DevOps**||
 | Jenkins| WIP  |
 | GitLab CI | WIP |
