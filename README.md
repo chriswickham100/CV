@@ -10,12 +10,12 @@ In sum, this repository captures technologies, methodologies, and code excerpts 
 
 I just started this report in mid-June 2022, and it's still a work in progress. Ultimately, I want every entry in the technologies section to have code snippets for, at minimum, hello world, as well as a description of pros, cons, and use cases. 
 
-## Technologies
+## Data Science with Python
 | Name        | Directory   
 | ------------- |:-------------:| 
 | **Coding Languages**|
-| Python - Object-Oriented Programming | [link](Technologies/Python_OOP.ipynb) |
-| Python - Data Exploration and Cleaning| [link](Technologies/Pandas_Numpy/Pandas_Numpy.ipynb)  |
+| Introduction & Object-Oriented Programming | [link](Technologies/Python_OOP.ipynb) |
+| Data Exploration and Cleaning| [link](Technologies/Pandas_Numpy/Pandas_Numpy.ipynb)  |
 | Python - Regression | WIP  |
 | Python - Classification | WIP  |
 | **DevOps**||
@@ -39,11 +39,11 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 
 
 
-## Methodologies, Frameworks, and Management Tools
+## Consulting Methodologies, Frameworks, and Management Tools
 | Name        | Directory   
 | ------------- |:-------------:| 
 | **Methodologies** ||
-| Machine Learning Ops: Planning, Development, Deployment & Governance| WIP |
+| Machine Learning Ops: Planning, Model Development, Deployment & Governance| WIP |
 | Enterprise Architecture Assessment and Enhancement| WIP |
 | Establishing a Data Governance Framework| WIP |
 | **Technical Team Management Frameworks**||
