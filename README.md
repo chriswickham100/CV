@@ -10,10 +10,10 @@ In sum, this repository captures technologies, methodologies, and code excerpts 
 
 I just started this report in mid-June 2022, and it's still a work in progress. Ultimately, I want every entry in the technologies section to have code snippets for, at minimum, hello world, as well as a description of pros, cons, and use cases. 
 
-## Data Science with Python
+## Technologies
 | Name        | Directory   
 | ------------- |:-------------:| 
-| **Coding Languages**|
+| **Data Science with Python**|
 | Introduction & Object-Oriented Programming | [link](Technologies/Python_OOP.ipynb) |
 | Data Exploration and Cleaning| [link](Technologies/Pandas_Numpy/Pandas_Numpy.ipynb)  |
 | Python - Regression | WIP  |
