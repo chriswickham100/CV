@@ -15,7 +15,7 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | ------------- |:-------------:| 
 | **Data Science with Python**|
 | Introduction & Object-Oriented Programming | [link](Technologies/Python_OOP.ipynb) |
-| Data Exploration and Cleaning| [link](Technologies/Pandas_Numpy/Pandas_Numpy.ipynb)  |
+| Data Exploration and Cleaning| [link](Technologies/data_exploration.ipynb)  |
 | Natural Language Processing and Regular Expressions (RegEx) | WIP  |
 | Regression Example | WIP  |
 | Classification Example | WIP  |
