@@ -17,10 +17,10 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | Introduction & Object-Oriented Programming | [link](Technologies/Python_OOP.ipynb) |
 | Data Exploration and Cleaning| [link](Technologies/Pandas_Numpy/Pandas_Numpy.ipynb)  |
 | Natural Language Processing and Regular Expressions (RegEx) | WIP  |
-| Regression | WIP  |
-| Classification | WIP  |
-| Clustering | WIP  |
-| Deep Learning | WIP  |
+| Regression Example | WIP  |
+| Classification Example | WIP  |
+| Clustering Example | WIP  |
+| Deep Learning Example | WIP  |
 | **DevOps**||
 | Jenkins| WIP  |
 | GitLab CI | WIP |
