@@ -16,8 +16,11 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | **Data Science with Python**|
 | Introduction & Object-Oriented Programming | [link](Technologies/Python_OOP.ipynb) |
 | Data Exploration and Cleaning| [link](Technologies/Pandas_Numpy/Pandas_Numpy.ipynb)  |
-| Python - Regression | WIP  |
-| Python - Classification | WIP  |
+| Natural Language Processing and Regular Expressions (RegEx) | WIP  |
+| Regression | WIP  |
+| Classification | WIP  |
+| Clustering | WIP  |
+| Deep Learning | WIP  |
 | **DevOps**||
 | Jenkins| WIP  |
 | GitLab CI | WIP |
