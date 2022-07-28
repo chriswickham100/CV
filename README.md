@@ -21,23 +21,11 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | Classification Example | WIP  |
 | Clustering Example | WIP  |
 | Deep Learning Example | WIP  |
-| Testing | WIP |
-| **DevOps**||
-| Jenkins| WIP  |
-| GitLab CI | WIP |
-| Docker | WIP |
-| Kubernetes| WIP |
-| **Distributed Processing and Data Pipeplines** ||
-| Spark| WIP |
-| Hadoop | WIP |
-| Databricks | WIP|
-| Apache Airflow| WIP  |
-| **Databases** ||
-| MySQL| WIP |
-| PostGreSQL | WIP |
-| MongoDB | WIP |
-| **Cloud Comparison**||
-| Azure vs Google vs AWS| WIP |
+| **Testing**: Concepts and Pytest | WIP |
+| **DevOps**: Jenkins, Gitlab, Docker, Kubernetes||
+| **Distributed Processing and Data Pipeplines**: Spark, Hadoop, Databricks, Apache Airflow ||
+| **Databases**: Relational vs. NoSQL ||
+| **Cloud**: Azure vs Google vs AWS| WIP |
 
 
 
@@ -49,11 +37,6 @@ I just started this report in mid-June 2022, and it's still a work in progress. 
 | **Methodologies** ||
 | Machine Learning Ops: Planning, Model Development, Deployment & Governance| WIP |
 | Enterprise Architecture Assessment and Enhancement| WIP |
-| Establishing a Data Governance Framework| WIP |
-| **Technical Team Management Frameworks**||
-| Agile Scrum vs. SAFAgile vs. Waterfall | WIP |
-| **Project Management and Design Thinking Tools**||
-| Mural | WIP  |
-| Trello | WIP |
-| Jira | WIP  |
-| Microsoft 365| WIP  |
+| **Data and Model Governance**|WIP|
+| **Technical Team Management**: Agile Scrum vs. SAFEAgile vs. Waterfall | WIP |
+| Project Management and Design Thinking Tools||
